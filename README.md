@@ -37,8 +37,8 @@ The value of the information in the above table (Table 1) is affected greatly by
 
 
 
+![Screenshot (5471a)](https://github.com/olivemckenzie2003/RFID-IN-THE-ELECTRONIC-PAYMENT/assets/115945473/dbef65c2-ed53-4880-a3fd-8599ff1d40d7)
 
-![Screenshot (5471)](https://github.com/olivemckenzie2003/RFID-IN-THE-ELECTRONIC-PAYMENT/assets/115945473/1b68170b-2b69-4eb8-af56-0aa3fce71d2e)
 
 
 In normal circumstances biometric features cannot be shared. Biometrics systems reduce maintenance in comparison with a password system, and a biometric system allows for faster login, no password to be remembered and increase security. (International Biometric Group 2002)
