@@ -35,6 +35,10 @@ Biometric recognition is a very effective means of authentication, however from 
 
 The value of the information in the above table (Table 2.1) is affected greatly by the fault tolerance level set on the biometric software and devices. If the fault tolerance is low the system will be more secure, however user friendliness will decrease. (Body Check: Biometrics Defeated).
 
+
+![image](https://github.com/olivemckenzie2003/RFID-IN-THE-ELECTRONIC-PAYMENT/assets/115945473/877da16e-13b7-4089-a35b-2b45e4f052e1)
+
+
 In normal circumstances biometric features cannot be shared. Biometrics systems reduce maintenance in comparison with a password system, and a biometric system allows for faster login, no password to be remembered and increase security. (International Biometric Group 2002)
 
 Biometric systems have special techniques that can be implemented to reduce the risk of overcoming verification through fraudulent methods. For example, the finger scanner recognises the unique conductive nature of the finger; blood flow, ridges at the periphery of the print so that they are as it should be in a live finger when placed on the scanner. The voice scanner can generate a random sequence of numbers for each scan thus making it difficult to utilise a pre-recorded voiceprint. Facial scan requires the user to blink, smile and so on for the template to be accepted. The iris scan measures the dilution of the iris under various measures of light shining on the eye.  The retina scan would fail to verify a dead eye because the vein structure of the retina changes just a few minutes after death. At present it appears that there are no special detection measures developed for the live hand, therefore a dead hand could verify a hand-scan. (International Biometric Group 2002)
