@@ -33,9 +33,10 @@ This chapter introduces the feasibility of biometric and RFID technology to be u
 
 Biometric recognition is a very effective means of authentication, however from research it has been shown that the scanning of the iris is the most effective method. It has been said that there is a one in six million chance of an error occurring and for a fingerprint there is a one in a million chance of an error occurring (René Brüderlin, 2001). However less people tend to loose their fingers and eyes and other body parts in comparison with the loss of credit cards, direct debit cards and the non-recollection of passwords. (Romsey Associates, 2001).
 
-The value of the information in the above table (Table 2.1) is affected greatly by the fault tolerance level set on the biometric software and devices. If the fault tolerance is low the system will be more secure, however user friendliness will decrease. (Body Check: Biometrics Defeated).
+The value of the information in the above table (Table 1) is affected greatly by the fault tolerance level set on the biometric software and devices. If the fault tolerance is low the system will be more secure, however user friendliness will decrease. (Body Check: Biometrics Defeated).
 
 
+![image](https://github.com/olivemckenzie2003/RFID-IN-THE-ELECTRONIC-PAYMENT/assets/115945473/0d2593ff-85ef-47e9-8008-51be43ec818c)
 
 
 
