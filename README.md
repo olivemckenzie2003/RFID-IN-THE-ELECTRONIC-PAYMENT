@@ -36,8 +36,9 @@ Biometric recognition is a very effective means of authentication, however from 
 The value of the information in the above table (Table 1) is affected greatly by the fault tolerance level set on the biometric software and devices. If the fault tolerance is low the system will be more secure, however user friendliness will decrease. (Body Check: Biometrics Defeated).
 
 
-![image](https://github.com/olivemckenzie2003/RFID-IN-THE-ELECTRONIC-PAYMENT/assets/115945473/0d2593ff-85ef-47e9-8008-51be43ec818c)
 
+
+![Screenshot (5471)](https://github.com/olivemckenzie2003/RFID-IN-THE-ELECTRONIC-PAYMENT/assets/115945473/1b68170b-2b69-4eb8-af56-0aa3fce71d2e)
 
 
 In normal circumstances biometric features cannot be shared. Biometrics systems reduce maintenance in comparison with a password system, and a biometric system allows for faster login, no password to be remembered and increase security. (International Biometric Group 2002)
